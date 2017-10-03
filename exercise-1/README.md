@@ -6,6 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.
+>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.
 
-"https://www.popsugar.com/smart-living/photo-gallery/36242499/image/36242709/Happiness-can-found-even-darkest-times-one-only"
+[hp] (https://www.popsugar.com/smart-living/photo-gallery/36242499/image/36242709/Happiness-can-found-even-darkest-times-one-only)
